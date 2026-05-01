@@ -1,0 +1,6 @@
+{
+  "name": "Credit Card Fraud Detection System",
+  "description": "An end-to-end ML system simulation for detecting fraudulent transactions in real-time with a live dashboard and scoring API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
